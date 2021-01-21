@@ -3,7 +3,7 @@ A Chat app that allows users to Connect among them and send receive messages wit
 
 ### Heroku deploy :-
 
-https://chatter-boi-v2.herokuapp.com/
+https://chatter--boi.herokuapp.com/
 
 ## info :-
 Also check my info folder for details
