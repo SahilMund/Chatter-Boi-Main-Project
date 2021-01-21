@@ -7,7 +7,7 @@
     "node": "10.21.x"
   },
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "keywords": [],
